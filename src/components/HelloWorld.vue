@@ -1,8 +1,9 @@
 <template>
   <div class="hello">
     <h2>To jest nowa treść</h2>
+    <span>To jestem ja</span>
     <p>hello</p>
-    <span>Kondrat ma psa</span>
+    <span>Ala ma kota</span>
   </div>
 </template>
 
