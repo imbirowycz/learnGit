@@ -7,6 +7,7 @@
         <li>dkjf</li>
         <li>kdjfk</li>
     </ul>
+    <H3>Zmiany z settings</H3>
   </div>
 </template>
 
