@@ -2,6 +2,11 @@
   <div class="Settings">
     <h2>Settings</h2>
     <p>Hello</p>
+    <ul>
+        <li>dkjf</li>
+        <li>dkjf</li>
+        <li>kdjfk</li>
+    </ul>
   </div>
 </template>
 
