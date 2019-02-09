@@ -2,6 +2,7 @@
   <div class="Settings">
     <h2>Settings</h2>
     <p>Hello</p>
+    <H3>Zmiany z settings</H3>
   </div>
 </template>
 
