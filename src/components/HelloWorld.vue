@@ -3,6 +3,7 @@
     <h2>To jest nowa treść</h2>
     <span>To jestem ja</span>
     <p>hello</p>
+    <span>Ala ma kota</span>
   </div>
 </template>
 
