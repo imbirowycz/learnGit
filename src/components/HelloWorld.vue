@@ -2,6 +2,7 @@
   <div class="hello">
     <h2>To jest nowa treść</h2>
     <p>hello</p>
+    <span>Kondrat ma psa</span>
   </div>
 </template>
 
