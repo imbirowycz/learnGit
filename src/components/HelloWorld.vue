@@ -4,6 +4,11 @@
     <span>To jestem ja</span>
     <p>hello</p>
     <span>Ala ma kota</span>
+    <ul>
+      <li>dkfjkj</li>
+      <li>dkjfdkfj</li>
+      <li>dkjfkdfj</li>
+    </ul>
   </div>
 </template>
 
